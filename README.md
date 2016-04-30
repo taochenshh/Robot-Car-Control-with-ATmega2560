@@ -1,7 +1,7 @@
 # Robot-Car-Control-with-ATmega2560
 
 ##MCU: Arduino Mega 2560 (ATmega 2560)
-IDE: WinAVR (not Arduino IDE)
+IDE: `WinAVR` (not Arduino IDE)
 
 ```
 Functions:
